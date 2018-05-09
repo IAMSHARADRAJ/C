@@ -19,12 +19,12 @@ TO DOWNLOAD THE REPOSITORY CLICK THE DOWNLOAD PROGRAMS LINK BELOW
   ANDROID WEBAPP FOR STUDY SMART 365 : <a href="https://www.mediafire.com/file/5b9by662d5dnvyz/STUDY_SMART_365_release.apk">DOWNLOAD APP</a>
 
 <h2>
-  ABOUT THE PROGRAMER
+  ABOUT THE PROGRAMMER
 </h2>
 <p>
-  Sharad is currently pursuing his BACHELOR OF COMPUTER APPLICATIONS degree from G.I.H.S, Lucknow, UttarPradesh, India.
+  Sharad is Currently living in India. Apart from programming he is also a blogger and a moody story writer.
 </p>
 <p>
-  Currently living in India.<br>Apart from programming he is also a blogger and a moody story writer, recently he was selected as one of the 350 students who were selected from all over India for the Google India Challenge Scholarship 2018. He aims to become an entreprenure in the field of Cyber Security and Software Development.
+  <br>He is currently pursuing his B.C.A (Bachelor of computer applications) from University Of Lucknow, recently he was selected as one of the 350 students who were selected from all over India for the Google India Challenge Scholarship 2018. He aims to become an entreprenure in the field of Cyber Security and Software Development.
 </p>
 <img src="https://goo.gl/images/DvfjLv">
