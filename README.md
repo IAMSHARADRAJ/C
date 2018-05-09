@@ -1,3 +1,5 @@
+<h1>HUB OF C</h1>
+<h3>A REPOSITORY OWNED BY SHARAD RAJ SINGH MAURYA</h3>
 <p>Dedicated to the students of B.C.A. and the programming geeks.</p>
 <p>Launched in 2018 for the coding geeks ‘THE LOVERS OF C’ especially.</p>
 
