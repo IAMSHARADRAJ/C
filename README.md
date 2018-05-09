@@ -1,6 +1,6 @@
 <h1>HUB OF C</h1>
 <h3>A REPOSITORY OWNED BY SHARAD RAJ SINGH MAURYA</h3>
-<p>Dedicated to the students of B.C.A. and the programming geeks, hope this will help you all in a better way.</p>
+<p>Dedicated to the students of B.C.A. and the programming geeks,hope this will help you all in a better way.</p>
 
 <h3>TO DOWNLOAD THE REPOSITORY CLICK THE DOWNLOAD PROGRAMS LINK BELOW
 </h3> <a href="https://github.com/IAMSHARADRAJ/C/archive/master.zip">DOWNLOAD PROGRAMS</a>
