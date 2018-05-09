@@ -3,5 +3,5 @@
 
 <b><p><u>DOWNLOAD THE REPOSITORY FROM HERE <b><u>: <a href="https://github.com/IAMSHARADRAJ/C/archive/master.zip">DOWNLOAD LINK</a></p>
   
-  My facebook ID : <a href="wwww.facebook.com/therealsharad">therealsharad</a><br>
-  My another blog : <a href="studysmart365.wordpress.com">STUDY SMART 365</a>
+  My facebook ID : <a href="https://wwww.facebook.com/therealsharad">therealsharad</a><br>
+  My another blog : <a href="https://studysmart365.wordpress.com">STUDY SMART 365</a>
