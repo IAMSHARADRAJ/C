@@ -3,8 +3,8 @@
 <p>Dedicated to the students of B.C.A. and the programming geeks.</p>
 <p>Launched in 2018 for the coding geeks ‘THE LOVERS OF C’ especially.</p>
 
-<h4>DOWNLOAD THE REPOSITORY CLICK THE DOWNLOAD LINK BELOW
-</h4> <a href="https://github.com/IAMSHARADRAJ/C/archive/master.zip">DOWNLOAD LINK</a>
+<h3>DOWNLOAD THE REPOSITORY CLICK THE DOWNLOAD LINK BELOW
+</h3> <a href="https://github.com/IAMSHARADRAJ/C/archive/master.zip">DOWNLOAD LINK</a>
 <br>
 
 My facebook ID : <a href="https://wwww.facebook.com/therealsharad">therealsharad</a><br>
