@@ -22,5 +22,5 @@ TO DOWNLOAD THE REPOSITORY CLICK THE DOWNLOAD PROGRAMS LINK BELOW
   ABOUT THE PROGRAMMER
 </h2>
 <p><b>
-  Sharad is Currently living in India his hometown is Barabanki. Apart from programming he is also a blogger and a moody story writer. He is currently pursuing his B.C.A (Bachelor of computer applications) from University Of Lucknow, recently he was selected as one of the 350 students who were selected from all over India for the Google India Challenge Scholarship 2018. He aims to become an entreprenure in the field of Cyber Security and Software Development.
+  Sharad is currently living in India his hometown is Barabanki. Apart from programming he is also a blogger and a moody story writer. He is currently pursuing his B.C.A (Bachelor of computer applications) from University Of Lucknow, recently he was selected as one of the 350 students who were selected from all over India for the Google India Challenge Scholarship 2018. He aims to become an entreprenure in the field of Cyber Security and Software Development.
 </b></p>
