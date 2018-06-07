@@ -1,3 +1,4 @@
+// Program for  converting lower case string to upper case 
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>

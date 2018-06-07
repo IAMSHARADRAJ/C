@@ -1,3 +1,4 @@
+// SUM OF (1)+(1/2)^2+(1/3)^3 .... and so on till n 
 #include<math.h>
 #include<conio.h>
 #include<stdio.h>

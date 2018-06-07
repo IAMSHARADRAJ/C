@@ -1,3 +1,4 @@
+//concatenante two strings without the strcat function
 #include<string.h>
 #include<stdio.h>
 #include<conio.h>

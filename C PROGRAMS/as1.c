@@ -1,3 +1,4 @@
+// PROGRAM FOR FINDING GREATEST ELEMENT IN ARRAY OF 20 ELEMENTS OR n elements
 #include<stdio.h>
 #include<conio.h>
 void main()

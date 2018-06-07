@@ -1,3 +1,4 @@
+// Program for finding a character in a give string
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>

@@ -1,3 +1,4 @@
+// Program for copying one strin to another
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>

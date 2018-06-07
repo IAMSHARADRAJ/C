@@ -1,3 +1,4 @@
+// Program for finding factorial using pointers
 #include<stdio.h>
 #include<conio.h>
 float f(int);

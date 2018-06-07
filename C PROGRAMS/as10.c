@@ -1,3 +1,4 @@
+// PROGRAM FOR SHOWING THE EFFECT OF incrementing on a pointer
 #include<stdio.h>
 #include<conio.h>
 void main()

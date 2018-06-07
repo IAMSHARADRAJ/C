@@ -1,3 +1,4 @@
+// pROGRAM FOR CHECKING TWO STRING ARE PALINDROME OR NOT WITHOUT THE USE OF strrev function
 #include<stdio.h>
 #include<conio.h>
 #include<string.h>

@@ -1,3 +1,4 @@
+// Program for adding elements of same index of two arrays and assiging it to third array 
 #include<stdio.h>
 #include<conio.h>
 #include<malloc.h>

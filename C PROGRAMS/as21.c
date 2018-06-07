@@ -1,3 +1,4 @@
+// Program for finding the number of Lines Words and Characters in a given text
 #include<stdio.h>
 #include<string.h>
 #include<conio.h>

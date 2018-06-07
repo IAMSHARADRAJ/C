@@ -1,3 +1,4 @@
+// tan series
 #include<math.h>
 #include<conio.h>
 #include<stdio.h>

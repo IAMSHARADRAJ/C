@@ -1,3 +1,4 @@
+// PROGRAM FOR FINDING THE SUM OF UPPER AND LOWER TRAINGLE OF A MATRIX
 #include<stdio.h>
 #include<conio.h>
 void main()
